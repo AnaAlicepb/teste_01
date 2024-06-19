@@ -6,7 +6,6 @@
     <meta name="description" content="Projeto Java de Filtragem de Dados com Streams">
     <meta name="keywords" content="Java, Streams, JUnit, Filtragem de Dados, Projeto Acadêmico">
     <meta name="author" content="Ana Alice Rodrigues">
-    <title>Projeto Java - Filtragem de Dados com Streams</title>
 </head>
 <body>
 
